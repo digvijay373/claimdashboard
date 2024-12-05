@@ -3,7 +3,7 @@ import streamlit as st
 import plotly.express as px
 from datetime import datetime
 import plotly.graph_objects as go
-import psycopg2
+
 
 st.set_page_config(
     page_title="Claim Leakage Dashboard Testing",
